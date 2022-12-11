@@ -1,12 +1,3 @@
-// question 1
-
-const getRemainder = (a, b) => a % b;
-
-//const result = getRemainder(5, 2);
-
-//console.log(result);
-
-
 //question 2
 
 const url = "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating&key=64c0a276897e4b5dbf0dea189ebfca2e";
